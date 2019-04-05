@@ -1,4 +1,4 @@
-report/
+report/*
 new_report.md
 __pycache__/
 *.py[cod]
