@@ -4,6 +4,9 @@
 $ git clone https://github.com/tatHi/daily_report.git
 $ cd daily_report
 $ python3 update.py
+make new_report.md by copying template.md
+make reports/ directory to store daily reports.
+new_report.md has not writen today yet.
 ```
 
 ## 使い方
